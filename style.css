@@ -1,0 +1,22 @@
+.navbar {
+    background-color: aqua;
+}
+
+.content {
+width: 300px;
+margin:auto;
+background: blueviolet;
+justify-content: center;
+}
+
+.ul-nav {
+    display: flex;
+    justify-content:center;
+}
+
+.li-nav{
+    
+    margin: 10px;
+    list-style-type: none;
+    
+}
